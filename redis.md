@@ -1,0 +1,2 @@
+### redis
+RDB，aof
